@@ -120,6 +120,7 @@ We’re excited for you to contribute to ShopSmart! Here’s how:
 6. No Issue Repetitions are allowed.
 7. Check the issues before you raise an issue.
 8. No Plagiarism of Codes.
+9. Make sure the code is genuine and it helps this project to grow.
 
 ## Community Guidelines 🤝
 
